@@ -1,0 +1,13 @@
+#id{
+  text-align: center;
+  text-transform: capitalize;
+  line-height: normal;
+}
+#css{
+  text-align: justify;
+  color: red;
+}
+#js{
+  color: green;
+  text-transform: capitalize;
+}
